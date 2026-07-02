@@ -43,7 +43,8 @@ Every card is bilingual (עברית + English) with copy-paste prompts. Pick one
 | [agenda.md](agenda.md) | Timed ~2h15 agenda + success criteria |
 | [slides-outline.md](slides-outline.md) | Archive — original outline; superseded by TALK-TRACK.md for presenting |
 | [demo-script.md](demo-script.md) | Exact prompts for the 5 live demos + prep checklist |
-| [cheat-sheet.md](cheat-sheet.md) | One-page take-home reference |
+| [cheat-sheet.md](cheat-sheet.md) | One-page take-home reference (English) |
+| [cheat-sheet-he.md](cheat-sheet-he.md) | דף עזר — the take-home reference in Hebrew (print this one for the parents) |
 | [slides-he.pptx](slides-he.pptx) | **The deck** — Hebrew, futuristic Stratos theme ([live version](https://gamma.app/docs/93s4z479aigi26x)) |
 | [slides.pptx](slides.pptx) | English deck, Peach theme ([live version](https://gamma.app/docs/no3zvuec7jzmbpg)) |
 

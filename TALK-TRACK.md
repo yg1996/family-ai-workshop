@@ -84,11 +84,12 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 6 · שדרוג 2: הוא יכול לקרוא את הדברים שלכם — 0:30–0:36 (6 min, demo)
 
-**🎬 DEMO 2 CUE** (demo-script.md → Demo 2 Part A): upload the prepared PDF, run the two questions.
+**🎬 DEMO 2 CUE** (demo-script.md → Demo 2 Part A): upload the (masked) credit-card statement, run the 3 questions — categories, subscriptions, anything unusual.
 
 **Say (around the demo):**
 - Until now it answered from general knowledge. Watch what happens when I give it MY document.
-- *"It's not answering from the internet — it's answering from THIS bill/manual."* Follow-up questions welcome, it remembers the document in this chat.
+- The subscriptions beat: pause on whatever forgotten charge it finds — *"who here is SURE they know all their subscriptions?"*
+- *"It's not answering from the internet — it's answering from THIS statement. Once a month, free financial review."*
 - Tease deep research: this was one document. There's also a mode where it goes out and reads DOZENS of sources for you and writes a report — it's the thing running in the background since minute zero. Patience.
 
 **Must land:** answers from YOUR document.

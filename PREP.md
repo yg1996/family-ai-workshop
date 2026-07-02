@@ -29,8 +29,8 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 - [ ] Delete instructions after test (must be EMPTY at session start!)
 
 ### Demo 2 + 2b — PDF + hallucination (~30 min)
-- [ ] Pick THE PDF: electricity bill / arnona / appliance manual — something parents recognize; save to demo device
-- [ ] Upload + run both questions — answers grounded and clear?
+- [ ] Prepare THE PDF: monthly credit-card statement — **mask card number + any transaction you don't want family seeing** (it's on the TV); save to demo device
+- [ ] Upload + run all 3 questions (categories / subscriptions / unusual) — answers grounded and clear? Subscriptions question finds something real?
 - [ ] **Test hallucination example** (clause 7.3 rental-law quote) — did it confidently invent? If it hedged/refused: test fallback (obscure sports season standings / local product prices) until you have one that reliably errs
 - [ ] Write down which example worked — that's the one you use
 

@@ -10,7 +10,7 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 - [ ] Custom instructions on demo account are **empty** at session start (Demo 1 fills them live)
 - [ ] Demo 1 instructions block: [city/phone/computer] placeholders filled with real details, saved somewhere you can paste from fast
 - [ ] Demo 1 tested: after-answer is Hebrew, numbered steps, matches the exact phone model, no jargon — dramatic vs the before-wall
-- [ ] One real PDF ready on the demo device: electricity bill / appliance manual / arnona bill — something the parents recognize
+- [ ] Demo 2 PDF ready on the demo device: monthly credit-card statement, card number MASKED + any private transactions removed (shown on TV)
 - [ ] Hallucination example (Demo 2b) **tested the day before** — confirm it actually errs; if not, use the fallback
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
 - [ ] TRAVEL GPT tested on demo account (Demo 4) — verify it builds a real itinerary; fallback: image generator ("birthday card for grandma")
@@ -71,15 +71,17 @@ Mention Memory in one line: "There's also Memory — things it picks up about yo
 
 ## Demo 2 (0:30) — File upload + the trust moment
 
-**Part A — upload the PDF** (bill or appliance manual). Ask, in sequence:
+**Part A — upload the PDF: your monthly credit-card statement.** ⚠️ Prep: mask the card number + any transaction you don't want the family reading — it's on the TV. Ask, in sequence:
 
-> Explain this document to me in simple terms. What am I actually paying for?
+> Explain this statement to me simply. What are my biggest expense categories this month?
 
-> Is there anything here unusual or worth checking?
+> Which recurring charges or subscriptions appear here? Anything I might have forgotten I'm paying for?
 
-Pick the follow-up that fits the doc (e.g. manual: "The machine shows error E4 — what do I do, step by step?").
+> Is there anything unusual or worth double-checking?
 
-**Say:** "It's not answering from the internet now. It's answering from MY document."
+The subscriptions question is the killer beat — everyone in the room has a forgotten subscription. Pause on whatever it finds.
+
+**Say:** "It's not answering from the internet now. It's answering from MY statement. Do this once a month — it's a free financial review."
 
 **Part B — the hallucination (trust moment, ~5 min).** New chat, NO web search (disable browsing/tools if possible for this one). Ask:
 
