@@ -38,8 +38,10 @@ Every card is bilingual (עברית + English) with copy-paste prompts. Pick one
 
 | File | What |
 |------|------|
+| [PREP.md](PREP.md) | **Start here** — E2E prep checklist, P0/P1/P2 priorities, 10-day schedule, day-of runsheet |
+| [TALK-TRACK.md](TALK-TRACK.md) | What to say on each slide of the final deck — timings, demo cues, transitions |
 | [agenda.md](agenda.md) | Timed ~2h15 agenda + success criteria |
-| [slides-outline.md](slides-outline.md) | Slide-by-slide speaker notes (talk delivered in Hebrew) |
+| [slides-outline.md](slides-outline.md) | Archive — original outline; superseded by TALK-TRACK.md for presenting |
 | [demo-script.md](demo-script.md) | Exact prompts for the 5 live demos + prep checklist |
 | [cheat-sheet.md](cheat-sheet.md) | One-page take-home reference |
 | [slides-he.pptx](slides-he.pptx) | **The deck** — Hebrew, futuristic Stratos theme ([live version](https://gamma.app/docs/93s4z479aigi26x)) |
