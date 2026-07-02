@@ -111,7 +111,7 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 8 · שדרוג 3: הוא יכול לעבוד בשבילכם — 0:40–0:50 (10 min, demo)
 
-**🎬 DEMO 3 CUE** (demo-script.md → Demo 3): create the "Trip to Portugal" Project live, paste instructions, ask one question inside; then create the weekly flight-price Task.
+**🎬 DEMO 3 CUE** (demo-script.md → Demo 3): create the "החתונה בטביליסי" Project live (pre-reveal hint — keep a straight face), paste instructions, ask one question inside; then create the weekly Tbilisi flight-price Task.
 
 **Say (around the demo):**
 - A Project is a dedicated ROOM for one topic: its own instructions, its own files, all the chats together. You set it up once — every conversation in that room starts smart. (Callback: "like custom instructions, but per topic.")
@@ -142,10 +142,11 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 10 · תורכם — 0:58–1:03 (5 min) → break
 
-**🎬 DEMO 0 REVEAL CUE** (demo-script.md → Demo 0 reveal): open the finished deep-research report. Scroll SLOWLY. Let it breathe.
+**🎬 DEMO 0 REVEAL CUE** (demo-script.md → Demo 0 reveal). Two beats:
 
 **Say:**
-- *"One hour ago I asked one question. While we talked, it read dozens of sources and wrote THIS."* Sections, prices, comparison, recommendation. This is 'working for you.'
+- **Beat 1 — the gag.** Show only the top section. Read deadpan: *"התשובה: טביליסי. מלון Riverside. אל תחשבו יותר מדי."* Pause for the laugh — it's literally the existing wedding plan. Optional: "hour of AI = three months of us."
+- **Beat 2 — the payoff.** Scroll slowly into the real research: *"One hour ago I asked one question. While we talked, it read dozens of sources and wrote THIS."* Comparisons, costs per guest, day-by-day itineraries. This is 'working for you.'
 - Now it's your turn. 8 recipe cards on the table — Hebrew and English, copy-paste prompts inside, 5 steps each. The names hint who each was made for, but take whatever you want.
 - Success tonight = it's LIVE on YOUR account before show & tell. I'm here, I float, ask everything.
 - Break first — coffee, take a card, pick your recipe.

@@ -16,8 +16,9 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 - [ ] Verify visible in UI: Deep Research button, Projects in sidebar, Tasks (ask "show my scheduled tasks")
 
 ### Demo 0 — deep research dry-run (~40 min, mostly waiting)
-- [ ] Run the exact Demo 0 prompt once, **time it** — need: finishes in 10–40 min (must be done by minute ~55 of the session)
-- [ ] Read the output — impressive? If thin, sharpen the prompt (more comparison criteria = richer report)
+- [ ] Run the exact Demo 0 prompt (wedding-abroad question) once, **time it** — need: finishes in 10–40 min (must be done by minute ~55 of the session)
+- [ ] **Verify the gag renders:** report must OPEN with the confident "התשובה: טביליסי + Riverside Hotel" section, real research below. If it softens/skips the joke opening — strengthen the formatting instruction and rerun
+- [ ] Read the real-research part — impressive? If thin, add comparison criteria
 - [ ] Note actual duration in demo-script.md margin
 
 ### Demo 1 — custom instructions before/after (~20 min)
