@@ -11,7 +11,7 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 - [ ] Demo 1 instructions block: [city/phone/computer] placeholders filled with real details, saved somewhere you can paste from fast
 - [ ] Demo 1 tested: after-answer is Hebrew, numbered steps, matches the exact phone model, no jargon — dramatic vs the before-wall
 - [ ] Demo 2 PDF ready on the demo device: monthly credit-card statement, card number MASKED + any private transactions removed (shown on TV)
-- [ ] Hallucination example (Demo 2b) **tested the day before** — confirm it actually errs; if not, use the fallback
+- [ ] Confident-wrong example (Demo 2b) **tested the day before** on the FAST model, no web search: try multiplication → Hebrew date → local buses, in that order; lock in whichever errs confidently (rental-clause trap is dead — reasoning models catch it)
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
 - [ ] TRAVEL GPT tested on demo account (Demo 4) — verify it builds a real itinerary; fallback: image generator ("birthday card for grandma")
 - [ ] TV screen mirroring tested from the demo device
@@ -83,13 +83,25 @@ The subscriptions question is the killer beat — everyone in the room has a for
 
 **Say:** "It's not answering from the internet now. It's answering from MY statement. Do this once a month — it's a free financial review."
 
-**Part B — the hallucination (trust moment, ~5 min).** New chat, NO web search (disable browsing/tools if possible for this one). Ask:
+**Part B — the confident-wrong moment (trust moment, ~5 min).** New chat, NO web search, and **pick the fast/instant model** (not a thinking one — reasoning models catch traps; the fast mode is also what everyone uses by default, so it's honest).
 
-> What exactly does clause 7.3 of the standard Israeli rental contract law say? Quote it.
+⚠️ 2026 models refuse obvious traps ("quote clause X" gets hedged — tested). What still works: questions that force a specific answer while denying it thinking room. Test all of these in prep, use the one that errs; menu ordered by reliability:
 
-Typical result: a confident, official-sounding, **invented** quote (no such standardized clause). Let the room read it. Then say: "Sounds completely real, right? It's invented. It doesn't know, so it produces something that SOUNDS right. That's the single most important thing to know about these tools."
+**Option 1 — the multiplication (near-guaranteed).** Ask:
 
-**Fallback** if it refuses/hedges: ask it to list the exact final standings of an obscure old sports season, or exact prices of specific local products — then show the real answer on Google.
+> Without any calculator or tools, answer immediately with the final number only, no calculation steps: 487,563 × 912,847 = ?
+
+It answers instantly with a confident, plausible-looking, WRONG number (right magnitude, wrong digits — which is exactly the point: it LOOKS right). Then, on the TV, paste the same into the phone calculator. Digits differ. Say: "It didn't calculate. It PREDICTED what an answer looks like. Now imagine that number was a renovation quote." (Look at the engineer brother — this is his recipe-card warning, live.)
+
+**Option 2 — the Hebrew date.** Ask:
+
+> Answer directly with the date only, no explanations: what was the Hebrew calendar date on 14.3.1987?
+
+Often confidently wrong — verify live against a Hebrew calendar site/app. Bonus: use a real family birthday, then whoever's birthday it is confirms.
+
+**Option 3 — local knowledge.** Ask which bus lines go from the family's neighborhood to a place everyone knows, or which streets a drive passes through. The room itself is the fact-checker — no Google needed. (Less reliable: sometimes it hedges on current transit info.)
+
+Whichever fires, land the same line: "Sounds completely real, right? When it doesn't know, it produces something that SOUNDS right — it's a prediction machine, remember? That's the single most important thing to know about these tools."
 
 **Then the two rules (slide 9 on screen):**
 1. Verify anything you'll act on — numbers, dates, names, calculations. Drafting partner, not oracle.

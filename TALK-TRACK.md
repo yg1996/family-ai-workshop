@@ -100,10 +100,10 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 7 · ⚠️ שני כללים — 0:36–0:40 (4 min, incl. Demo 2b)
 
-**🎬 DEMO 2b CUE** (demo-script.md → Demo 2 Part B): the live hallucination. Let them READ the confident wrong answer before you say a word.
+**🎬 DEMO 2b CUE** (demo-script.md → Demo 2 Part B): the confident-wrong moment — use the option that passed prep testing (multiplication / Hebrew date / local buses), on the FAST model. Let them SEE the confident wrong answer, then verify live (calculator on the TV / calendar app / the room itself).
 
 **Say:**
-- *"Sounds completely real, right? It's invented."* When it doesn't know, it produces something that SOUNDS right. This is the single most important thing to know about these tools.
+- *"Sounds completely real, right? It's wrong."* It didn't calculate/know — it PREDICTED what an answer looks like. Callback to slide 3: prediction machine. This is the single most important thing to know about these tools.
 - Rule 1: verify anything you'll act on — numbers, dates, names, calculations. It's a drafting partner, not an oracle.
 - Rule 2 (look at everyone, not just Mom): nothing confidential goes in. Work documents, client data — if you wouldn't email it outside the office, don't paste it here. Describe the problem instead — there's a recipe card tonight built exactly for that.
 

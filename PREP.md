@@ -31,8 +31,8 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 ### Demo 2 + 2b — PDF + hallucination (~30 min)
 - [ ] Prepare THE PDF: monthly credit-card statement — **mask card number + any transaction you don't want family seeing** (it's on the TV); save to demo device
 - [ ] Upload + run all 3 questions (categories / subscriptions / unusual) — answers grounded and clear? Subscriptions question finds something real?
-- [ ] **Test hallucination example** (clause 7.3 rental-law quote) — did it confidently invent? If it hedged/refused: test fallback (obscure sports season standings / local product prices) until you have one that reliably errs
-- [ ] Write down which example worked — that's the one you use
+- [ ] **Test the confident-wrong menu** (demo-script.md → Demo 2b) on the FAST model, no web search: ① big multiplication (answer-immediately framing) ② Hebrew date conversion ③ local bus lines. ~~Rental-clause quote~~ — dead, reasoning models hedge it (tested 2.7)
+- [ ] Lock in whichever errs confidently + prep its verification (calculator on TV / Hebrew calendar app / the room itself)
 
 ### Demo 3 — Project + Task (~20 min)
 - [ ] Create a throwaway Project, paste instructions, upload file, ask the question — smooth?
