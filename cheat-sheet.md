@@ -7,6 +7,23 @@
 3. **It can work FOR you** — Projects keep a topic's brain in one place; Tasks run on a schedule without you.
 4. **Bonus: Borrow experts** — GPT Store has 159,000+ ready-made assistants. Install with one click.
 
+## The 6 lines everyone should set (Settings → Personalization → Custom Instructions)
+
+Copy, fill the brackets, done — every chat gets better forever:
+
+```text
+About me: I live in [city], Israel. I'm not technical. My phone is a [model],
+my computer is [Windows/Mac]. [dietary/other constants: e.g. we keep kosher].
+
+How to answer: Always answer in Hebrew. Short and practical. No technical
+jargon — if a term is necessary, explain it in one sentence. When giving
+instructions, number the steps, ONE action per step, tell me where to tap.
+For decisions: 2-3 options with pros and cons, then recommend one. Prices in
+shekels. If my question is unclear — ask me before answering.
+```
+
+**The sorting rule:** always-true-about-you → instructions. About-today's-question → just type it in the chat.
+
 ## Where things live
 
 | Feature | Where |
@@ -18,7 +35,7 @@
 | Deep Research | Composer → Deep Research button |
 | Voice | Headphone/voice icon in the app |
 | Camera | Camera icon — point at anything, ask about it |
-| GPT Store | Sidebar → Explore GPTs. Worth installing: Kayak (travel), Canva (design), Wolfram (real math), Consensus (science-backed answers) |
+| GPT Store | Sidebar → Explore GPTs. Worth installing: TRAVEL (trip itineraries), Construction Estimating Pro, image generator, SAP Expert |
 
 ## 5 golden rules
 

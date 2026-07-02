@@ -8,8 +8,8 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 
 - [ ] Demo account is Plus; verify **deep research**, **Projects**, and **scheduled Tasks** all appear in the UI
 - [ ] Custom instructions on demo account are **empty** at session start (Demo 1 fills them live)
-- [ ] Demo 1 instructions block: [PLACEHOLDERS] filled with real family names, saved somewhere you can paste from fast
-- [ ] Demo 1 tested: after-toast actually names the family, references Tbilisi/October, tone lands (funny-warm, not cringe) — tweak the one-detail-per-person lines if flat
+- [ ] Demo 1 instructions block: [city/phone/computer] placeholders filled with real details, saved somewhere you can paste from fast
+- [ ] Demo 1 tested: after-answer is Hebrew, numbered steps, matches the exact phone model, no jargon — dramatic vs the before-wall
 - [ ] One real PDF ready on the demo device: electricity bill / appliance manual / arnona bill — something the parents recognize
 - [ ] Hallucination example (Demo 2b) **tested the day before** — confirm it actually errs; if not, use the fallback
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
@@ -39,31 +39,33 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 
 ---
 
-## Demo 1 (0:20) — Custom instructions: before/after (the wedding toast)
+## Demo 1 (0:20) — Custom instructions: before/after (the 6 lines everyone should set)
 
-Continues the wedding thread. Same six-word prompt twice — first as a stranger, then as family.
+The teaching point: instructions hold the DURABLE stuff — who you are, how you want answers — not one-off context (that goes in the prompt). Show a real daily question transformed by 6 generic lines.
 
 **Part A — before.** New chat (instructions EMPTY), ask:
 
-> Write a short toast for a family wedding.
+> My phone keeps showing "storage almost full". What should I do?
 
-Result: generic Hallmark cheese — "love is a journey", could be read at any wedding on Earth. Say: "Nice. Also completely hollow — it's toasting strangers."
+Result: a long English wall — mixed iPhone/Android advice, jargon ("clear cache", "offload apps"), 15 options. Say: "Technically correct. Practically useless — it's answering some random person on the internet."
 
-**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate as you paste). **⚠️ Fill the [PLACEHOLDERS] with real names BEFORE the session:**
+**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate each line — every line is one the family can steal):
 
-> About me: I'm [YOUR NAME], getting married to [PARTNER NAME] this October — the wedding is in Tbilisi, Georgia, a 3-4 day trip with the whole family. The family: [DAD NAME] (my dad, ex project manager, plans every trip like a military operation), [MOM NAME] (my mom, quality assurance manager — nothing leaves this family unchecked), [SISTER NAME] (my sister, implements systems at work and in life), [BROTHER 1 NAME] (construction engineer, builds things that don't fall), [BROTHER 2 NAME] (junior DevOps, keeps things running).
+> About me: I live in [city], Israel. I'm not technical. My phone is a [Samsung Galaxy S23 / iPhone 13], my computer is [Windows / Mac]. We keep kosher.
 >
-> How to answer: Always answer in Hebrew unless asked otherwise. Keep things short. Humor: warm, light family teasing, never embarrassing anyone.
+> How to answer: Always answer in Hebrew. Short and practical. No technical jargon — if a technical term is necessary, explain it in one sentence. When giving instructions, number the steps, ONE action per step, and tell me exactly where to tap. For decisions, give 2-3 options with pros and cons, then recommend one. Prices in shekels. If my question is unclear — ask me before answering.
 
-**Part C — after.** NEW chat, same exact prompt:
+**Part C — after.** NEW chat, same exact question:
 
-> Write a short toast for a family wedding.
+> My phone keeps showing "storage almost full". What should I do?
 
-Result: Hebrew toast that names the actual people in the room, references Tbilisi and October, teases gently in the right tone. **Pause here.** Point at people as their names appear. Say: "Same six words from me. It just knows the family now — and it will in every chat, from now on."
+Result: short Hebrew answer, numbered steps, for THEIR exact phone model, "tap here, then here", no jargon. **Pause.** Say: "Same question. I typed nothing extra. It knows my phone, my language, and how I like to be answered — in every chat, from now on. Six lines, once, forever."
+
+**The rule to say out loud:** things that are ALWAYS true about you → instructions. Things about TODAY's question → just write them in the chat. (The wedding stays in the prompt; your phone model lives in instructions.)
 
 Mention Memory in one line: "There's also Memory — things it picks up about you over time. Settings → Personalization, you can see and delete everything it remembered."
 
-*(Yes — the toast mentions Tbilisi before the Demo 0 reveal. Same pre-reveal hint as the Project name in Demo 3. Keep a straight face.)*
+**Hands-on hook:** "First 5 minutes of the hands-on later — every one of you sets your own 6 lines. It's on the cheat sheet."
 
 ---
 

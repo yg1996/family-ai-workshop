@@ -66,16 +66,17 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 5 · שדרוג 1: הוא יכול להכיר אתכם — 0:20–0:30 (10 min, mostly demo)
 
-**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): the wedding toast, before/after custom instructions. Same six-word prompt twice. Narrate as you paste the instructions — "who I am, the wedding, the family, how I like answers."
+**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): "storage almost full" question, before/after the 6-line instructions. Narrate each instruction line as you paste — each one is stealable.
 
 **Say (around the demo):**
-- Before-toast on screen: *"Nice. Could be read at any wedding on Earth — it's toasting strangers."*
-- Custom instructions = a note ChatGPT reads before EVERY conversation. Who you are, who matters to you, how you want answers. Write it once.
-- After-toast: **point at each person as their name appears on the TV.** Let it sink.
-- The contrast line: *"Same six words from me. It just knows the family now — in every chat, from now on."*
-- One line on Memory: there's also a memory that fills up over time with things it learns about you — you can see and delete everything: Settings → Personalization.
+- Before-answer on screen: *"Technically correct. Practically useless — it's answering some random person on the internet."*
+- Custom instructions = a note ChatGPT reads before EVERY conversation. The 6 lines: where I live, I'm not technical, my exact phone and computer, always Hebrew, numbered steps one action each, ask me if unclear.
+- After-answer: *"Same question. Now it's Hebrew, numbered, for MY phone, tells me where to tap. Six lines, once, forever."*
+- **The sorting rule (say it slowly):** always-true-about-you → instructions. About-today's-question → just type it in the chat.
+- One line on Memory: there's also a memory that fills up over time — see and delete everything at Settings → Personalization.
+- Plant the hands-on hook: "first 5 minutes of hands-on tonight = you all set your own 6 lines."
 
-**Must land:** set once → personal forever. (Bonus: family hearing their own names = the demo sells itself.)
+**Must land:** set once → personal forever + the sorting rule (durable vs one-off).
 
 **Transition:** "It knows you now. But it still can't see your papers. Upgrade two."
 
