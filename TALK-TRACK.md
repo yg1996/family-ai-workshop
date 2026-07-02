@@ -66,14 +66,16 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 5 · שדרוג 1: הוא יכול להכיר אתכם — 0:20–0:30 (10 min, mostly demo)
 
-**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): dinner question before/after custom instructions. Narrate as you paste the instructions — "who we are, kosher, 40 minutes, answer in Hebrew, shopping list."
+**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): the wedding toast, before/after custom instructions. Same six-word prompt twice. Narrate as you paste the instructions — "who I am, the wedding, the family, how I like answers."
 
 **Say (around the demo):**
-- Custom instructions = a note ChatGPT reads before EVERY conversation. Who you are, how you like answers. Write it once.
-- After demo, pause on the contrast: *"Same question. I typed nothing extra. It just knows the house now — in every chat, from now on."*
+- Before-toast on screen: *"Nice. Could be read at any wedding on Earth — it's toasting strangers."*
+- Custom instructions = a note ChatGPT reads before EVERY conversation. Who you are, who matters to you, how you want answers. Write it once.
+- After-toast: **point at each person as their name appears on the TV.** Let it sink.
+- The contrast line: *"Same six words from me. It just knows the family now — in every chat, from now on."*
 - One line on Memory: there's also a memory that fills up over time with things it learns about you — you can see and delete everything: Settings → Personalization.
 
-**Must land:** set once → personal forever.
+**Must land:** set once → personal forever. (Bonus: family hearing their own names = the demo sells itself.)
 
 **Transition:** "It knows you now. But it still can't see your papers. Upgrade two."
 

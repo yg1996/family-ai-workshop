@@ -21,10 +21,12 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 - [ ] Read the real-research part — impressive? If thin, add comparison criteria
 - [ ] Note actual duration in demo-script.md margin
 
-### Demo 1 — custom instructions before/after (~20 min)
-- [ ] Run "before" (empty instructions) — confirm generic answer
-- [ ] Paste prepared instructions, run "after" in NEW chat — confirm dramatic contrast (Hebrew, kosher, shopping list)
-- [ ] Delete instructions again after test (must be empty at session start!)
+### Demo 1 — wedding toast before/after (~25 min)
+- [ ] Fill the [PLACEHOLDERS] in the Demo 1 instructions block with real family names + one affectionate detail each (demo-script.md → Demo 1 Part B)
+- [ ] Run "before" (empty instructions): "Write a short toast for a family wedding" — confirm generic Hallmark output
+- [ ] Paste instructions, run "after" in NEW chat, same prompt — confirm: Hebrew, names everyone, Tbilisi/October, tone funny-warm not cringe
+- [ ] Tone off? Tweak the per-person detail lines and the humor instruction, rerun
+- [ ] Delete instructions after test (must be EMPTY at session start!)
 
 ### Demo 2 + 2b — PDF + hallucination (~30 min)
 - [ ] Pick THE PDF: electricity bill / arnona / appliance manual — something parents recognize; save to demo device

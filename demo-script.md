@@ -8,7 +8,8 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 
 - [ ] Demo account is Plus; verify **deep research**, **Projects**, and **scheduled Tasks** all appear in the UI
 - [ ] Custom instructions on demo account are **empty** at session start (Demo 1 fills them live)
-- [ ] The "after" custom-instructions text (below) saved somewhere you can paste from fast
+- [ ] Demo 1 instructions block: [PLACEHOLDERS] filled with real family names, saved somewhere you can paste from fast
+- [ ] Demo 1 tested: after-toast actually names the family, references Tbilisi/October, tone lands (funny-warm, not cringe) — tweak the one-detail-per-person lines if flat
 - [ ] One real PDF ready on the demo device: electricity bill / appliance manual / arnona bill — something the parents recognize
 - [ ] Hallucination example (Demo 2b) **tested the day before** — confirm it actually errs; if not, use the fallback
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
@@ -38,27 +39,31 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 
 ---
 
-## Demo 1 (0:20) — Custom instructions: before/after
+## Demo 1 (0:20) — Custom instructions: before/after (the wedding toast)
 
-**Part A — before.** New chat, ask:
+Continues the wedding thread. Same six-word prompt twice — first as a stranger, then as family.
 
-> Suggest what to make for dinner tonight.
+**Part A — before.** New chat (instructions EMPTY), ask:
 
-Result: generic list. Say: "Fine. Also useless — it's answering a stranger."
+> Write a short toast for a family wedding.
 
-**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate as you paste):
+Result: generic Hallmark cheese — "love is a journey", could be read at any wedding on Earth. Say: "Nice. Also completely hollow — it's toasting strangers."
 
-> About me: I live in Israel. I cook for 2 adults in our 60s. We keep kosher, prefer Mediterranean food, and dinner should take under 40 minutes to make. One of us avoids spicy food.
+**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate as you paste). **⚠️ Fill the [PLACEHOLDERS] with real names BEFORE the session:**
+
+> About me: I'm [YOUR NAME], getting married to [PARTNER NAME] this October — the wedding is in Tbilisi, Georgia, a 3-4 day trip with the whole family. The family: [DAD NAME] (my dad, ex project manager, plans every trip like a military operation), [MOM NAME] (my mom, quality assurance manager — nothing leaves this family unchecked), [SISTER NAME] (my sister, implements systems at work and in life), [BROTHER 1 NAME] (construction engineer, builds things that don't fall), [BROTHER 2 NAME] (junior DevOps, keeps things running).
 >
-> How to answer: Answer in Hebrew unless asked otherwise. Be short and practical. When suggesting recipes, always include a shopping list.
+> How to answer: Always answer in Hebrew unless asked otherwise. Keep things short. Humor: warm, light family teasing, never embarrassing anyone.
 
-**Part C — after.** NEW chat, same exact question:
+**Part C — after.** NEW chat, same exact prompt:
 
-> Suggest what to make for dinner tonight.
+> Write a short toast for a family wedding.
 
-Result: Hebrew, kosher, 40-minute Mediterranean dinner with a shopping list. **Pause here.** Say: "Same question. I typed nothing extra. It just knows the house now — and it will in every chat from now on."
+Result: Hebrew toast that names the actual people in the room, references Tbilisi and October, teases gently in the right tone. **Pause here.** Point at people as their names appear. Say: "Same six words from me. It just knows the family now — and it will in every chat, from now on."
 
 Mention Memory in one line: "There's also Memory — things it picks up about you over time. Settings → Personalization, you can see and delete everything it remembered."
+
+*(Yes — the toast mentions Tbilisi before the Demo 0 reveal. Same pre-reveal hint as the Project name in Demo 3. Keep a straight face.)*
 
 ---
 
