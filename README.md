@@ -18,6 +18,7 @@ Every card is bilingual (עברית + English) with copy-paste prompts. Pick one
 | 6 | [🖥️ On-Call Study Buddy](recipe-cards/6-devops-study-buddy.md) | חבר למידה לדבאופס | DevOps juniors | ⭐⭐ |
 | 7 | [☀️ Morning Digest Task](recipe-cards/7-morning-digest-task.md) | משימת עדכון בוקר | Everyone — easiest! | ⭐ |
 | 8 | [🛒 Ready-Made Experts (GPT Store)](recipe-cards/8-gpt-store-starter.md) | מומחים מוכנים מראש | Everyone — zero build | ⭐ |
+| 9 | [💼 Tax Pro Assistant](recipe-cards/9-tax-pro-assistant.md) | עוזר מיסים למקצוענית | Tax CPAs 🔒 | ⭐⭐ |
 
 🔒 = built confidentiality-safe · ⚠️ = calculation-verification warning included
 

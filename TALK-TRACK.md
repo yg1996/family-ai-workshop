@@ -151,7 +151,7 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 **Say:**
 - **Beat 1 — the gag.** Show only the top section. Read deadpan: *"התשובה: טביליסי. מלון Riverside. אל תחשבו יותר מדי."* Pause for the laugh — it's literally the existing wedding plan. Optional: "hour of AI = three months of us."
 - **Beat 2 — the payoff.** Scroll slowly into the real research: *"One hour ago I asked one question. While we talked, it read dozens of sources and wrote THIS."* Comparisons, costs per guest, day-by-day itineraries. This is 'working for you.'
-- Now it's your turn. 8 recipe cards on the table — Hebrew and English, copy-paste prompts inside, 5 steps each. The names hint who each was made for, but take whatever you want.
+- Now it's your turn. 9 recipe cards on the table — Hebrew and English, copy-paste prompts inside, 5 steps each. The names hint who each was made for, but take whatever you want.
 - Success tonight = it's LIVE on YOUR account before show & tell. I'm here, I float, ask everything.
 - Break first — coffee, take a card, pick your recipe.
 

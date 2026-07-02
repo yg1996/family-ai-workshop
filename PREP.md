@@ -57,7 +57,7 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 - [ ] Build [card 1 — Vacation Planner](recipe-cards/1-vacation-planner.md) end-to-end on your own account
 - [ ] Build [card 7 — Morning Digest](recipe-cards/7-morning-digest-task.md) — let it actually fire next morning, see what arrives
 - [ ] Build [card 8 — GPT Store](recipe-cards/8-gpt-store-starter.md) — install the picks yourself
-- [ ] Skim-build cards 2–6: create each Project, paste instructions, one message each — enough to help anyone stuck
+- [ ] Skim-build cards 2–6 + 9: create each Project, paste instructions, one message each — enough to help anyone stuck
 - [ ] Drill feature locations until instant: Settings → Personalization → Custom Instructions / Memory · sidebar → New Project · Explore GPTs · Deep Research button · Tasks list
 
 ### Rehearse the talk (~2h)
