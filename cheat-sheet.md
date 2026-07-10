@@ -36,6 +36,7 @@ shekels. If my question is unclear — ask me before answering.
 | Voice | Headphone/voice icon in the app |
 | Camera | Camera icon — point at anything, ask about it |
 | GPT Store | Sidebar → Explore GPTs. Worth installing: TRAVEL (trip itineraries), Construction Estimating Pro, image generator, SAP Expert |
+| Apps & Connectors (Gmail, Spotify, Skyscanner…) | Settings → Apps and Connectors — or just mention the app's name in chat. ⚠️ Real account permissions — connect only what you use |
 
 ## 5 golden rules
 

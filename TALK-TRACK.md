@@ -140,7 +140,13 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 - Trust rule, once: anyone can publish there. Check the builder, ratings, user count — same instincts as the rest of the internet. These four are ones I checked and liked.
 - One-liner: at work, Business accounts are getting a bigger version of this idea called "Skills" — if you see it, same concept.
 
-**Must land:** "before building from scratch — check if someone already built it."
+**🎬 DEMO 4b CUE** (demo-script.md → Demo 4b, ~2-3 min): Apps & Connectors.
+- GPTs are borrowed brains — **apps are hands.** ChatGPT connects to services you USE: Gmail ("find me the email with the payment details"), Spotify (playlists by mood), Skyscanner (live flights in the chat).
+- Where: Settings → Apps and Connectors — or just name the app in a chat.
+- If Spotify pre-connected: the wedding-playlist live beat. (Wink #3.)
+- **The rule:** connecting = real permissions to your real account. Connect what you use, disconnect anytime, same care as installing an app.
+
+**Must land:** "before building from scratch — check if someone already built it" + apps are hands, permissions are real.
 
 **Transition:** "OK. One question from an hour ago is still open…"
 

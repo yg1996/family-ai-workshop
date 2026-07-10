@@ -42,6 +42,7 @@
 | קול | אייקון האוזניות/קול באפליקציה |
 | מצלמה | אייקון המצלמה — מכוונים על כל דבר ושואלים |
 | GPT Store | תפריט צד ← Explore GPTs. שווה להתקין: TRAVEL (מסלולי טיולים), Construction Estimating Pro, image generator, SAP Expert |
+| אפליקציות וחיבורים (Gmail, Spotify, Skyscanner...) | Settings ← Apps and Connectors — או פשוט מזכירים את שם האפליקציה בצ'אט. ⚠️ הרשאות אמיתיות לחשבון האמיתי — לחבר רק מה שבאמת משתמשים בו |
 
 ## 6 כללי זהב
 

@@ -14,6 +14,7 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 - [ ] Confident-wrong example (Demo 2b) **tested the day before** on the FAST model, no web search: try multiplication → Hebrew date → local buses, in that order; lock in whichever errs confidently (rental-clause trap is dead — reasoning models catch it)
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
 - [ ] TRAVEL GPT tested on demo account (Demo 4) — verify it builds a real itinerary; fallback: image generator ("birthday card for grandma")
+- [ ] OPTIONAL (Demo 4b live beat): connect Spotify on demo account (Settings → Apps and Connectors), test the wedding-playlist prompt; skip if short on time — beat works as say-only
 - [ ] TV screen mirroring tested from the demo device
 - [ ] All family devices charged, everyone logged into their OWN ChatGPT account
 - [ ] Recipe cards printed (or link ready), cheat sheet printed
@@ -144,6 +145,25 @@ Show the structured itinerary, inside ChatGPT. Then show it's now pinned in the 
 **The one rule:** anyone can publish to the store — check the builder name, ratings, and user count before trusting one. Same trust rules as the rest of the internet. ("These four — I checked and liked.")
 
 **Optional one-liner for context:** workplaces are getting a bigger version of this called "Skills" (Business/Enterprise plans) — if you see it at work, it's the same idea.
+
+---
+
+## Demo 4b (0:55) — Apps & Connectors: ChatGPT touches YOUR services
+
+**The idea (2 min talk):** GPTs are borrowed brains; **apps/connectors are hands** — ChatGPT connects to services you already use and acts inside them. Where: **Settings → Apps and Connectors**, or just mention the app's name in a chat and it walks you through sign-in.
+
+**The menu (say it):**
+- **Gmail / Google Drive** — "find the email with the kindergarten payment details", "summarize what's in this folder"
+- **Spotify** — build playlists by describing a mood
+- **Skyscanner** — live flights in the chat: describe the trip in words, get routes + prices
+
+**🎬 Live beat (only if pre-connected in prep — otherwise say-only):** Spotify connected → ask:
+
+> תכין פלייליסט לחתונה משפחתית באוקטובר — פתיחה רגועה, ואז ריקודים. שילוב של ישראלי וקלאסיקות.
+
+A wedding playlist materializes in the family's Spotify. Third Tbilisi-thread wink.
+
+**⚠️ The one rule (always say):** connecting an app = giving ChatGPT real permissions to your real account. Connect only what you'll actually use, review what it can access, disconnect anytime in Settings → Apps and Connectors. Same care as installing a phone app.
 
 ---
 
