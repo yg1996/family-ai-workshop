@@ -46,7 +46,7 @@ Every card is bilingual (עברית + English) with copy-paste prompts. Pick one
 | [demo-script.md](demo-script.md) | Exact prompts for the 5 live demos + prep checklist |
 | [cheat-sheet.md](cheat-sheet.md) | One-page take-home reference (English) |
 | [cheat-sheet-he.md](cheat-sheet-he.md) | דף עזר — the take-home reference in Hebrew (print this one for the parents) |
-| [slides-he.pptx](slides-he.pptx) | **The deck** — Hebrew, futuristic Stratos theme ([live version](https://gamma.app/docs/93s4z479aigi26x)) |
+| [slides-he.pptx](slides-he.pptx) | **The deck** — Hebrew, futuristic Stratos theme, incl. Apps & Connectors + 9 recipes ([live version](https://gamma.app/docs/bz52fnyve5fzcuf)) |
 | [slides.pptx](slides.pptx) | English deck, Peach theme ([live version](https://gamma.app/docs/no3zvuec7jzmbpg)) |
 
 **Presenter's one critical prep item:** dry-run the Deep Research demo (kicked off at minute 0, revealed at minute ~58) — see the checklist at the top of [demo-script.md](demo-script.md).
