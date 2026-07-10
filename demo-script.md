@@ -90,7 +90,7 @@ Tested extensively (July 2026): current models refuse or correctly answer every 
 
 **Say:** "I'll be honest with you. I spent hours this week trying to make it confidently invent something on stage — legal clauses, math, movie quotes, song lyrics. It caught every trap. The models have gotten dramatically better at saying 'I'm not sure'."
 
-(Optional: show one refusal screenshot from prep — "look, it refuses to guess.")
+(Optional: show the refusal screenshot from prep — "look, it refuses to guess": [assets/refusal-screenshot.png](assets/refusal-screenshot.png) — ChatGPT declining to fake the Treasure Planet Hebrew dub lyrics.)
 
 **Then the turn:** "So why am I still telling you not to trust it blindly? Because the mistakes didn't disappear — they moved. It errs when nobody's auditing: a wrong year inside a long summary, an invented detail in a helpful plan, a citation that sounds perfect. In 2026, Canadian courts caught 167 filings with AI-invented case citations — from LAWYERS. It didn't fail when quizzed; it failed while being helpful. That's exactly when you stop checking."
 
