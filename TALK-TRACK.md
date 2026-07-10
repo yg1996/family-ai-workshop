@@ -66,12 +66,12 @@ Talk block total: **~63 min** (0:00–1:03), then break + hands-on.
 
 ## Slide 5 · שדרוג 1: הוא יכול להכיר אתכם — 0:20–0:30 (10 min, mostly demo)
 
-**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): "storage almost full" question, before/after the 6-line instructions. Narrate each instruction line as you paste — each one is stealable.
+**🎬 DEMO 1 CUE** (demo-script.md → Demo 1): the wedding-gift question, before/after the 6-line instructions. Narrate each instruction line as you paste — each one is stealable.
 
 **Say (around the demo):**
-- Before-answer on screen: *"Technically correct. Practically useless — it's answering some random person on the internet."*
-- Custom instructions = a note ChatGPT reads before EVERY conversation. The 6 lines: where I live, I'm not technical, my exact phone and computer, always Hebrew, numbered steps one action each, ask me if unclear.
-- After-answer: *"Same question. Now it's Hebrew, numbered, for MY phone, tells me where to tap. Six lines, once, forever."*
+- Before-answer on screen: *"Very nice. If we were Americans — it's answering some random person on the internet."*
+- Custom instructions = a note ChatGPT reads before EVERY conversation. The 6 lines: where I live, I'm not technical, my devices, always Hebrew, options + recommendation, prices in shekels, ask me if unclear.
+- After-answer: *"Same question. Hebrew, shekels, our norms, tiered options with a recommendation. Six lines, once, forever."* (Deadpan re: whose October wedding this might be.)
 - **The sorting rule (say it slowly):** always-true-about-you → instructions. About-today's-question → just type it in the chat.
 - One line on Memory: there's also a memory that fills up over time — see and delete everything at Settings → Personalization.
 - Plant the hands-on hook: "first 5 minutes of hands-on tonight = you all set your own 6 lines."

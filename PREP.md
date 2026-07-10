@@ -23,9 +23,9 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 
 ### Demo 1 — the 6-line instructions before/after (~20 min)
 - [ ] Fill [city / phone model / computer] in the Demo 1 instructions block with your real details (demo-script.md → Demo 1 Part B)
-- [ ] Run "before" (empty instructions): the storage-full question — confirm long English jargon wall
-- [ ] Paste instructions, run "after" in NEW chat, same question — confirm: Hebrew, numbered steps, exact phone model, no jargon
-- [ ] Contrast weak? Sharpen the "one action per step, tell me where to tap" line, rerun
+- [ ] Run "before" (empty instructions): the wedding-gift question — confirm English/dollars/American norms
+- [ ] Paste instructions, run "after" in NEW chat, same question — confirm: Hebrew, shekels, tiered options + recommendation
+- [ ] Contrast weak? Sharpen the "2-3 options with pros and cons, then recommend" and "prices in shekels" lines, rerun
 - [ ] Delete instructions after test (must be EMPTY at session start!)
 
 ### Demo 2 + 2b — PDF + hallucination (~30 min)

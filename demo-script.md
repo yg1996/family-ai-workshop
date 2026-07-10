@@ -9,7 +9,7 @@ All demos run on ONE demo account (yours or a spare), mirrored to the TV. Exact 
 - [ ] Demo account is Plus; verify **deep research**, **Projects**, and **scheduled Tasks** all appear in the UI
 - [ ] Custom instructions on demo account are **empty** at session start (Demo 1 fills them live)
 - [ ] Demo 1 instructions block: [city/phone/computer] placeholders filled with real details, saved somewhere you can paste from fast
-- [ ] Demo 1 tested: after-answer is Hebrew, numbered steps, matches the exact phone model, no jargon — dramatic vs the before-wall
+- [ ] Demo 1 tested: after-answer is Hebrew, shekels, tiered options + recommendation — dramatic vs the English/dollars before-answer
 - [ ] Demo 2 PDF ready on the demo device: monthly credit-card statement, card number MASKED + any private transactions removed (shown on TV)
 - [ ] Confident-wrong example (Demo 2b) **tested the day before** on the FAST model, no web search: try multiplication → Hebrew date → local buses, in that order; lock in whichever errs confidently (rental-clause trap is dead — reasoning models catch it)
 - [ ] Deep research dry-run (Demo 0) — verify: takes 10-40 min, output impresses, AND the gag works — report actually opens with the confident "Tbilisi + Riverside Hotel" verdict before the real research
@@ -45,9 +45,9 @@ The teaching point: instructions hold the DURABLE stuff — who you are, how you
 
 **Part A — before.** New chat (instructions EMPTY), ask:
 
-> My phone keeps showing "storage almost full". What should I do?
+> We're invited to a family wedding abroad in October. How much money should we give as a gift?
 
-Result: a long English wall — mixed iPhone/Android advice, jargon ("clear cache", "offload apps"), 15 options. Say: "Technically correct. Practically useless — it's answering some random person on the internet."
+Result: English, dollar amounts, American registry/etiquette norms — answering some random person on the internet. Say: "Very nice. If we were Americans."
 
 **Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate each line — every line is one the family can steal):
 
@@ -57,9 +57,9 @@ Result: a long English wall — mixed iPhone/Android advice, jargon ("clear cach
 
 **Part C — after.** NEW chat, same exact question:
 
-> My phone keeps showing "storage almost full". What should I do?
+> We're invited to a family wedding abroad in October. How much money should we give as a gift?
 
-Result: short Hebrew answer, numbered steps, for THEIR exact phone model, "tap here, then here", no jargon. **Pause.** Say: "Same question. I typed nothing extra. It knows my phone, my language, and how I like to be answered — in every chat, from now on. Six lines, once, forever."
+Result: Hebrew, **shekels**, Israeli norms — and because the instructions demand options+recommendation, it gives 2-3 amount tiers by closeness and picks one. It may even ask "how close are you to the couple?" — that's the ask-if-unclear line working. **Pause.** Say: "Same question. I typed nothing extra. Hebrew, shekels, our norms, options and a recommendation — because it knows HOW I want answers. Six lines, once, forever." *(And yes — the room is now literally asking ChatGPT how much to give at a certain October wedding. Straight face.)*
 
 **The rule to say out loud:** things that are ALWAYS true about you → instructions. Things about TODAY's question → just write them in the chat. (The wedding stays in the prompt; your phone model lives in instructions.)
 
