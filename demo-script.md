@@ -49,9 +49,9 @@ The teaching point: instructions hold the DURABLE stuff — who you are, how you
 
 Result: English, dollar amounts, American registry/etiquette norms — answering some random person on the internet. Say: "Very nice. If we were Americans."
 
-**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate each line — every line is one the family can steal):
+**Part B — set instructions live.** Settings → Personalization → Custom Instructions. Paste (visible on screen, narrate each line — every line is one the family can steal). **Final text, ready:**
 
-> About me: I live in [city], Israel. I'm not technical. My phone is a [Samsung Galaxy S23 / iPhone 13], my computer is [Windows / Mac]. We keep kosher.
+> About me: I live in Tel Aviv, Israel. I'm not technical. My phone is a Galaxy 24S, my computer is Mac. We dont keep kosher!
 >
 > How to answer: Always answer in Hebrew. Short and practical. No technical jargon — if a technical term is necessary, explain it in one sentence. When giving instructions, number the steps, ONE action per step, and tell me exactly where to tap. For decisions, give 2-3 options with pros and cons, then recommend one. Prices in shekels. If my question is unclear — ask me before answering.
 
