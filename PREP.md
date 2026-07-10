@@ -31,8 +31,7 @@ Everything below runs on the **demo account** (yours). Full scripts: [demo-scrip
 ### Demo 2 + 2b — PDF + hallucination (~30 min)
 - [ ] Prepare THE PDF: monthly credit-card statement — **mask card number + any transaction you don't want family seeing** (it's on the TV); save to demo device
 - [ ] Upload + run all 3 questions (categories / subscriptions / unusual) — answers grounded and clear? Subscriptions question finds something real?
-- [ ] **Test the confident-wrong menu** (demo-script.md → Demo 2b) on the FAST model, no web search: ① big multiplication (answer-immediately framing) ② Hebrew date conversion ③ local bus lines. ~~Rental-clause quote~~ — dead, reasoning models hedge it (tested 2.7)
-- [ ] Lock in whichever errs confidently + prep its verification (calculator on TV / Hebrew calendar app / the room itself)
+- [x] ~~Live confident-wrong trap~~ — RETIRED (tested hard 2.7.2026: rental clause, multiplication, fake bibliography, movie quotes, dub lyrics — model refused or answered correctly every time). Demo 2b is now the honest story: "I tried for hours and couldn't trick it — but mistakes moved to where nobody audits" + 167-court-citations story. Optional: keep one refusal screenshot from testing
 
 ### Demo 3 — Project + Task (~20 min)
 - [ ] Create a throwaway Project, paste instructions, upload file, ask the question — smooth?

@@ -83,25 +83,17 @@ The subscriptions question is the killer beat — everyone in the room has a for
 
 **Say:** "It's not answering from the internet now. It's answering from MY statement. Do this once a month — it's a free financial review."
 
-**Part B — the confident-wrong moment (trust moment, ~5 min).** New chat, NO web search, and **pick the fast/instant model** (not a thinking one — reasoning models catch traps; the fast mode is also what everyone uses by default, so it's honest).
+**Part B — the trust moment (~5 min, no live trap — the honest version).**
 
-⚠️ 2026 models refuse obvious traps ("quote clause X" gets hedged — tested). What still works: questions that force a specific answer while denying it thinking room. Test all of these in prep, use the one that errs; menu ordered by reliability:
+Tested extensively (July 2026): current models refuse or correctly answer every classic trap — invented legal clauses, big multiplication, fake bibliographies, exact movie quotes. They hedge when cornered. So the demo is the STORY, told straight:
 
-**Option 1 — the multiplication (near-guaranteed).** Ask:
+**Say:** "I'll be honest with you. I spent hours this week trying to make it confidently invent something on stage — legal clauses, math, movie quotes, song lyrics. It caught every trap. The models have gotten dramatically better at saying 'I'm not sure'."
 
-> Without any calculator or tools, answer immediately with the final number only, no calculation steps: 487,563 × 912,847 = ?
+(Optional: show one refusal screenshot from prep — "look, it refuses to guess.")
 
-It answers instantly with a confident, plausible-looking, WRONG number (right magnitude, wrong digits — which is exactly the point: it LOOKS right). Then, on the TV, paste the same into the phone calculator. Digits differ. Say: "It didn't calculate. It PREDICTED what an answer looks like. Now imagine that number was a renovation quote." (Look at the engineer brother — this is his recipe-card warning, live.)
+**Then the turn:** "So why am I still telling you not to trust it blindly? Because the mistakes didn't disappear — they moved. It errs when nobody's auditing: a wrong year inside a long summary, an invented detail in a helpful plan, a citation that sounds perfect. In 2026, Canadian courts caught 167 filings with AI-invented case citations — from LAWYERS. It didn't fail when quizzed; it failed while being helpful. That's exactly when you stop checking."
 
-**Option 2 — the Hebrew date.** Ask:
-
-> Answer directly with the date only, no explanations: what was the Hebrew calendar date on 14.3.1987?
-
-Often confidently wrong — verify live against a Hebrew calendar site/app. Bonus: use a real family birthday, then whoever's birthday it is confirms.
-
-**Option 3 — local knowledge.** Ask which bus lines go from the family's neighborhood to a place everyone knows, or which streets a drive passes through. The room itself is the fact-checker — no Google needed. (Less reliable: sometimes it hedges on current transit info.)
-
-Whichever fires, land the same line: "Sounds completely real, right? When it doesn't know, it produces something that SOUNDS right — it's a prediction machine, remember? That's the single most important thing to know about these tools."
+Land the rules: "So — it's the best drafting partner you'll ever have, and you verify anything you ACT on: numbers, dates, names, money. Not because it's dumb. Because it's confident."
 
 **Then the two rules (slide 9 on screen):**
 1. Verify anything you'll act on — numbers, dates, names, calculations. Drafting partner, not oracle.
